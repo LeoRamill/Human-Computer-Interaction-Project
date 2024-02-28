@@ -14,9 +14,9 @@ The objective of our interviews is to obtain a comprehensive and diversified vie
 The first step to make, as usual in needfinding, is determine questions for user interviews. The drafting of the questions is based on three macrothemes concerning 
 the needs of students:
 
-- ** Study Plan **
-- ** Opinion about the Professors **
-- ** Internship **
+- **Study Plan**
+- **Opinion about the Professors**
+- **Internship**
 
 The questions in these interviews are asked in a generic way not to influence the student with our opinion, but to confirm 
 that it is a necessity of every single student the opinion of about teachers so that there is awareness and clarity
