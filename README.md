@@ -20,18 +20,38 @@ The theme of work that the team had to deal with is the following:
 
 ## Testing 1: Sharing Notes
 
-### Need 
-Necessità di maggiore e più facilitata comunicazione tra studenti per scambio di opinioni riguardo corsi e professori e condivisione di appunti per studiare. Queste informazioni sono per loro utili al fine di scegliere il corso ed i tirocini a loro più adatti.
-
 ### Task
-1.  Ricercare il nome del corso desiderato
-2. Selezioni il corso d’interesse
-3. Ricerca l’argomento di quel corso su cui ti servono appunti
-4. Visualizza gli appunti su quell’argomento postati da altri studenti (eventualmente ordinati in base alle recensioni di altri studenti)  
+1. Search for the desired course name
+2. Select the course of interest
+3. Research the topic of that course you need notes on
+4. View notes on that topic posted by other students (possibly sorted by other students' reviews)  
 
-### Situation/Context
+### Scenario
 Imagine that you are following in the presence of the first lesson given by Giuseppe Perelli, of the teaching "Basi di Dati" and you are not clear a part of the lesson "Che cosa sono i dati?". Browse through the app to find notes on this topic, choose the ones best rated by other students regardless of the date of publication.
 
 https://github.com/LeoRamill/Human-Computer-Interaction-Project/assets/161584956/2f49e9ab-0d2b-40b8-8c1a-d2eea61ae571
 
 
+## Testing 2: Getting to know the Professor better
+
+### Task
+1. Search for the name of the professor of your interest
+2. Select the desired professor
+3. View the information of your interest among those available regarding the professor
+4. Browse reviews and/or comments posted by other students
+
+### Scenario
+You are starting the first semester of the second year of ACSAI and want to know more about your new professor Gabriele Tolomei. Use the app to review and read the full opinions of other students about him, specifically about a colleague of yours from previous years: Leonard
+
+
+## Testing 3: Inquire about the Internship
+
+### Task
+1. Search for the name of the professor of your interest
+2. Select the desired professor
+3. View the information of your interest among those available regarding the professor
+4. Browse the available internships of the professor you are looking for
+
+### Scenario
+Imagine wanting to start an internship with Professor Gabriele Tolomei.
+Browse through the app to inform and consult the thesis/internship topics still available. 
