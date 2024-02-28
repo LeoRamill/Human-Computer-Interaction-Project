@@ -3,11 +3,11 @@
 Project related to the examination of *Human Computer Interaction* of the academic year 2023/2024 by the
 *Intrusi di ACSAI* Team - La Sapienza University. The project is organized by the following students:
 
-- Veronica Di Gennaro          $|$  GitHub Profile: [veronicadign](https://github.com/veronicadign)
-- Annafabia Gai                $|$  GitHub Profile: [annafabia03](https://github.com/annafabia03)
-- Christian Gennarelli         $|$  GitHub Profile: [christian-gennarelli](https://github.com/christian-gennarelli)
-- Daniel Y. Guarnizo Orjuela   $|$  GitHub Profile: [DanielGuarnizo](https://github.com/DanielGuarnizo)
-- Leonard Vincent Ramil        $|$  GitHub Profile: [LeoRamill](https://github.com/LeoRamill)
+- **Veronica Di Gennaro**          $|$  GitHub Profile: [veronicadign](https://github.com/veronicadign)
+- **Annafabia Gai**                $|$  GitHub Profile: [annafabia03](https://github.com/annafabia03)
+- **Christian Gennarelli**         $|$  GitHub Profile: [christian-gennarelli](https://github.com/christian-gennarelli)
+- **Daniel Y. Guarnizo Orjuela**   $|$  GitHub Profile: [DanielGuarnizo](https://github.com/DanielGuarnizo)
+- **Leonard Vincent Ramil**        $|$  GitHub Profile: [LeoRamill](https://github.com/LeoRamill)
 
 The theme of work that the team had to deal with is the following:
 
