@@ -40,6 +40,9 @@ The procedure we were inspired to create the digital prototype is the Human-Cent
     - Hardware and software implementation
     - Documentation
 
+<img width="875" alt="Screenshot 2024-02-28 alle 18 34 36" src="https://github.com/LeoRamill/Human-Computer-Interaction-Project/assets/161584956/e464a5f0-a162-4156-88ec-773fb7324bd0">
+
+
 ## Procedure
 The basic steps of creating the digital prototype are as follows:
 1. [Needfinding](/Needfinding-Interviste-Questionari)
