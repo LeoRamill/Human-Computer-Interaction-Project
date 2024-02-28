@@ -32,6 +32,8 @@ Imagine that you are following in the presence of the first lesson given by Gius
 https://github.com/LeoRamill/Human-Computer-Interaction-Project/assets/161584956/2f49e9ab-0d2b-40b8-8c1a-d2eea61ae571
 
 
+
+
 ## Testing 2: Getting to know the Professor better
 
 ### Task
@@ -42,6 +44,11 @@ https://github.com/LeoRamill/Human-Computer-Interaction-Project/assets/161584956
 
 ### Scenario
 You are starting the first semester of the second year of ACSAI and want to know more about your new professor Gabriele Tolomei. Use the app to review and read the full opinions of other students about him, specifically about a colleague of yours from previous years: Leonard
+
+
+https://github.com/LeoRamill/Human-Computer-Interaction-Project/assets/161584956/438b0906-8b6b-43a1-9960-a4ad779e604f
+
+
 
 
 ## Testing 3: Inquire about the Internship
@@ -55,3 +62,7 @@ You are starting the first semester of the second year of ACSAI and want to know
 ### Scenario
 Imagine wanting to start an internship with Professor Gabriele Tolomei.
 Browse through the app to inform and consult the thesis/internship topics still available. 
+
+https://github.com/LeoRamill/Human-Computer-Interaction-Project/assets/161584956/ee9b3a1f-0ab7-42ef-96ee-3856fff57811
+
+
